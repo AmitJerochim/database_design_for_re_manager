@@ -1,4 +1,4 @@
-# Dabase Design For An Automation tool for Property Management
+# Database Design For An Automation tool for Property Management
 
 This repository contains the database design for a Node.js based WebApp I developed to automate repeatable office tasks in property management. 
 
